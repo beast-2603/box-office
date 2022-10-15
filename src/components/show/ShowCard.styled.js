@@ -27,7 +27,6 @@ export const StyledShowCard = styled(SearchCard)`
       align-items: center;
       &:hover {
         cursor: pointer;
-        background-color: gold;
       }
     }
   }
