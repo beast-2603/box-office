@@ -9,7 +9,6 @@ const theme = {
   mainColors: {
     blue: '#2400ff',
     gray: '#c6c6c6',
-    dark_gray: '#b2b2b2',
     dark: '#353535',
   },
 };

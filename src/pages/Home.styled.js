@@ -44,7 +44,7 @@ export const SearchButtonWrapper = styled.div`
     border-radius: 12px;
     &:hover {
       cursor: pointer;
-      background-color: ${({ theme }) => theme.mainColors.dark_gray};
+      background-color: ${({ theme }) => theme.mainColors.dark};
     }
   }
 `;
